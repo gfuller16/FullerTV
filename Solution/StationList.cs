@@ -1,0 +1,14 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace WindowsFormsApplication2
+{
+    public class StationList
+    {
+        public string shortName { get; set; }
+        public decimal Price { get; set; }
+    }
+}
